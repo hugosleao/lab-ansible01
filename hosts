@@ -1,0 +1,1 @@
+localhost ansible_connection=local #comando para apontar o comando para localhost
